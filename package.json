@@ -1,0 +1,22 @@
+{
+  "name": "reseau--social-saint-jerome-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh5fmk7gr9-jpg/reseau--social-saint-jerome-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sh5fmk7gr9-jpg/reseau--social-saint-jerome-backend/issues"
+  },
+  "homepage": "https://github.com/sh5fmk7gr9-jpg/reseau--social-saint-jerome-backend#readme"
+}

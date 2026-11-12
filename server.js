@@ -1,0 +1,3 @@
+PORT=5000
+DATABASE_URL=postgres://votre_utilisateur:votre_mot_de_passe@localhost:5432/nom_de_votre_base
+JWT_SECRET=votre_secret_jwt_tres_securise
